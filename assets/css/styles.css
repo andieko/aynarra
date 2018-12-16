@@ -4,9 +4,6 @@
   text-align:center;
 }
 
-.h1, h1 {
-}
-
 #header h1 {
   font-weight:800;
   text-align:center;
@@ -18,8 +15,6 @@
 
 #top3 {
   color:rgb(142,142,142);
-  /*font-weight:800;*/
-  /*font-size:20px;*/
 }
 
 #header h5 {
@@ -95,5 +90,8 @@
 
 #ordertop {
   padding:20px 0 20px 0;
+}
+
+body {
 }
 
