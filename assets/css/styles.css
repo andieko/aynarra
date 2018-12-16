@@ -28,13 +28,6 @@
   color:rgb(142,142,142);
 }
 
-#bodi {
-  font-family:'Didact Gothic';
-  max-width:800px;
-  /*padding:0 auto;*/
-  margin:0 auto;
-}
-
 @media (min-width: 300px) {
   #header h3 {
     font-size:22px;
@@ -67,5 +60,40 @@
 
 #imgtop {
   margin:0 auto;
+}
+
+#topcont {
+  max-width:800px;
+}
+
+#s2h1 {
+  font-size:28px;
+  max-width:800px;
+  text-align:center;
+}
+
+#s2r1 {
+  max-width:800px;
+  margin:0 auto;
+  padding:20px 0;
+}
+
+#s2r1h1 {
+  font-weight:800;
+}
+
+#btorder {
+  padding:20px 0;
+  margin:0 auto;
+}
+
+#btnorder {
+  background-color:green;
+  font-size:26px;
+  font-weight:800;
+}
+
+#ordertop {
+  padding:20px 0 20px 0;
 }
 
